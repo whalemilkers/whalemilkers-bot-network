@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Whalemilkers Bot Network</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { font-family: Arial, sans-serif; background: #ffffff; color: #111; margin: 0; padding: 0; }
+header { padding: 60px; text-align: center; }
+h1 { margin-bottom: 10px; }
+section { max-width: 800px; margin: auto; padding: 40px 20px; line-height: 1.6; }
+footer { text-align: center; padding: 20px; font-size: 14px; color: #666; }
+a { color: #007bff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>
+</head>
+
+<body>
+<header>
+<h1>Whalemilkers Bot Network</h1>
+<p>Reliable, Secure, Community-Focused Discord Bot Services</p>
+</header>
+
+<section>
+<h2>About</h2>
+<p>This network provides multiple Discord bots designed for community management, engagement, automation, and interactive features.</p>
+
+<h2>Terms of Service</h2>
+<p><a href="#tos">View Terms of Service</a></p>
+
+<h2>Privacy Policy</h2>
+<p><a href="#privacy">View Privacy Policy</a></p>
+
+<h2>Contact</h2>
+<p>For support or data removal requests: <strong>Discord:</strong> whale_0531</p>
+</section>
+
+<footer>
+© Whalemilkers Bot Network — All Rights Reserved
+</footer>
+
+</body>
+</html>
